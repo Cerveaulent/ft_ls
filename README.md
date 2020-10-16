@@ -4,6 +4,7 @@
   
   <h6> Isn't compatible with Linux distros
 
+*
 
 [ft_ls Main page](https://github.com/Cerveaulent/ft_ls) 
 
